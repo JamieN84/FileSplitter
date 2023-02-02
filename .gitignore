@@ -1,3 +1,9 @@
+# Ignore all files in Input folder
+src/Input/
+
+# Ignore all files in Output folder
+src/Output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
